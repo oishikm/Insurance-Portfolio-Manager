@@ -1,5 +1,5 @@
 # Insurance-Portfolio-Manager
-Insurance Portfolio Management System
+Insurance Portfolio Management System.
 
 Currenlty only available from command line.
 
